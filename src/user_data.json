@@ -1,0 +1,19 @@
+{
+  "5766578354": {
+    "username": "@undefined",
+    "balance": 0,
+    "referralCount": 0,
+    "tasksDone": 0,
+    "referredBy": null,
+    "joinDate": "2023-09-11T04:59:39.287Z"
+  },
+  "5418530421": {
+    "username": "@social101ab",
+    "balance": 52.5,
+    "referralCount": 0,
+    "tasksDone": 1,
+    "referredBy": null,
+    "joinDate": "2023-09-11T04:59:40.164Z",
+    "lastBonusClaimed": 1694409202384
+  }
+}
